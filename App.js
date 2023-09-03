@@ -46,7 +46,7 @@ function App() {
 
 
 
-  console.log(countryIcon)
+  
 
   return (
     <div className="App">
