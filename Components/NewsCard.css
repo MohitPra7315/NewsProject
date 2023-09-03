@@ -1,0 +1,15 @@
+.CardBox{
+    height: 540px;
+    width: 520px;
+    /* aspect-ratio: 1/1; */
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    margin-top: 10px;
+}
+
+img{
+    height: 100%;
+    width: 100%;
+    /* background-size: contain; */
+}
